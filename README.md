@@ -1248,3 +1248,6 @@ WalletWise/
 - **OpenAI API**: A service that provides AI language models for text generation and analysis
 - **RecycleView**: A widget in Kivy designed for efficient display of large datasets
 - **GitHub Actions**: GitHub's CI/CD platform for automating workflows
+
+---
+Copyright (c) 2025 OuchenTech
