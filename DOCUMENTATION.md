@@ -67,7 +67,7 @@ The application leverages several key technologies:
 - **Firebase**: Backend services including authentication and database
 - **OpenAI API**: AI-powered insights and natural language processing
 
-[Download Now!](https://ko-fi.com/shop/settings?src=sidemenu&productType=0)
+[Download Now!](https://ko-fi.com/s/2b030c1aed)
 
 ## 2. App Structure
 
@@ -441,7 +441,7 @@ Layout templates
 Follow these steps to get WalletWise up and running quickly:
 
 1. **Purchase and Download the Template**
-   - Purchase and Download the template from our [Ko-Fi shop](https://ko-fi.com/shop/settings?src=sidemenu&productType=0)
+   - Purchase and Download the template from our [Ko-Fi shop](https://ko-fi.com/s/2b030c1aed)
 
 2. **Extract the Project Files**
    - Unzip the downloaded file to your preferred development directory
